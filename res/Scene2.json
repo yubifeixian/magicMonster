@@ -1,0 +1,234 @@
+{
+  "ID": "d53ffaa3-c226-44f2-ab23-b8e2eba80908",
+  "Version": "3.10.0.0",
+  "Name": "Scene2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 5,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bg2.jpg",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 247,
+            "Scale9OriginY": 440,
+            "Scale9Width": 256,
+            "Scale9Height": 454,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 375.0,
+              "Y": 667.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 6,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "Button",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 709.2819,
+                  "Y": 1240.0308
+                },
+                "Scale": {
+                  "ScaleX": 1.053,
+                  "ScaleY": 1.4402
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9457,
+                  "Y": 0.9296
+                },
+                "PreSize": {
+                  "X": 0.0613,
+                  "Y": 0.027
+                },
+                "LeftMargin": 686.2819,
+                "RightMargin": 17.7181,
+                "TopMargin": 75.9692,
+                "BottomMargin": 1222.0308,
+                "Tag": 8,
+                "ActionTag": 1927291234,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 36.0
+                },
+                "Alpha": 0,
+                "Name": "Button",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "0000000000000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "SIMHEI.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 684.1159,
+                  "Y": 1238.3207
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9122,
+                  "Y": 0.9283
+                },
+                "PreSize": {
+                  "X": 0.2653,
+                  "Y": 0.0285
+                },
+                "LeftMargin": 485.1159,
+                "RightMargin": 65.8841,
+                "TopMargin": 76.6793,
+                "BottomMargin": 1219.3207,
+                "Tag": 9,
+                "ActionTag": -67976319,
+                "Size": {
+                  "X": 199.0,
+                  "Y": 38.0
+                },
+                "Name": "Text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1851473457,
+            "Size": {
+              "X": 750.0,
+              "Y": 1334.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "bg2.jpg",
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "SIMHEI.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
